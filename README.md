@@ -3,4 +3,6 @@ As mentioned in the description, this was a natural language processing (binary 
 
 I find it fascinating how NLP models continue to evolve... and this project was an awesome learning experience. I will definitely create more NLP models in the future, as I am currently working on a much larger one that I currently cannot post, but I will try to keep you all posted on it. Thanks for checking this out!
 
+UPDATE: I recently uploaded the model itself (the .pth file) if any of you guys would like to use it yourselves! I will do my best to update my models going into the future, and also upload .pth files with all of my notebooks so everyone can use them for free and test them out. My most recent update to this model in particular was just some optimization, as I noticed the model was overfitting a little bit, so I lowered the epochs and applied some dropout layers which helped substantially.
+
 I did not scrape this dataset; it uses MIT licensing -- the link is here if you wanna check out the creator(s): https://www.mit.edu/~amini/LICENSE.md 
