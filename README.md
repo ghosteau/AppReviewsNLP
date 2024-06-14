@@ -5,6 +5,6 @@ I find it fascinating how NLP models continue to evolve... and this project was 
 
 UPDATE: I recently uploaded the model itself (the .pth file) if any of you guys would like to use it yourselves! I will do my best to update my models going into the future, and also upload .pth files with all of my notebooks so everyone can use them for free and test them out. My most recent update to this model in particular was just some optimization, as I noticed the model was overfitting a little bit, so I lowered the epochs and applied some dropout layers which helped substantially.
 
-My next update will likely be some form of multiclassification. Stay in the loop!
+My next update will likely be some form of multiclassification or an update to a recursive neural network architecture. There is also a possibility I mess around with some transformers. Stay in the loop!
 
 I did not scrape this dataset; it uses MIT licensing -- the link is here if you wanna check out the creator(s): https://www.mit.edu/~amini/LICENSE.md 
