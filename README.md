@@ -1,5 +1,5 @@
 # App Review Model -- Natural Language Processing
-As mentioned in the description, this was a natural language processing (binary classification) model that I built to read through app reviews from the Amazon Kindle. It scored an 85 percent on the testing data, which I found quite good considering the only metric it was given was words, and no user information.
+As mentioned in the description, this was a natural language processing (binary classification) model that I built to read through app reviews from the Amazon Kindle. It scored an 85 percent on the testing data, which I found quite good considering the only metric it was given was words, and no user information. Because this is a bag of words model, the down-side is that it does not necessarily consider the context in which a word occurs, which allows room for this architecture to be greatly improved; regardless this was promising.
 
 I find it fascinating how NLP models continue to evolve... and this project was an awesome learning experience. I will definitely create more NLP models in the future, as I am currently working on a much larger one that I currently cannot post, but I will try to keep you all posted on it. Thanks for checking this out!
 
